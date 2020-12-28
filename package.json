@@ -1,0 +1,25 @@
+{
+    "name": "fb-hacks",
+    "version": "1.0.0",
+    "description": "",
+    "main": "groups.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Abdelhammied/facebook-snippts.git"
+    },
+    "author": {
+        "name": "Abdelhammied Elsayed",
+        "email": "abdelhammied@gmail.com"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Abdelhammied/facebook-snippts/issues"
+    },
+    "homepage": "https://github.com/Abdelhammied/facebook-snippts#readme",
+    "dependencies": {
+        "node-fetch": "^2.6.1"
+    }
+}
